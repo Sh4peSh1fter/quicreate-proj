@@ -1,0 +1,3 @@
+1) Add github token usage and setup
+
+2) Synergize with PyGitHub modul
