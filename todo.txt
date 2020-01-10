@@ -1,3 +1,5 @@
 1) Add github token usage and setup ( - find a better way for the authentication)
 
 2) Synergize with PyGitHub modul
+
+3) Check how safe the remote add authentication by sending the credentials in the url (credentials are saved in the git configuration)
